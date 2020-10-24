@@ -9,7 +9,7 @@ You need the following packages:
 
 * `make`
 * `flex`
-* 'bison`
+* `bison`
 
 How you install these depends on your OS, but if you use arch,
 it would be:
